@@ -12,6 +12,6 @@ This project can be installed by
 
 ## Migration
 + Run the command `npm run build` and 
-+ Run the command `npm run migrate:up` to add tables to database
++ Run the command `npm run migrate:up` 
 
 
